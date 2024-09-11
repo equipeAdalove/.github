@@ -13,10 +13,7 @@ Nossa visão vai além de simplesmente fornecer soluções tecnológicas; almeja
 
 ##
 
-### Este perfil é destinado ao projeto API (Aprendizagem por Projetos Integrados) | Fatec - Prof Jessen Vidal 
-
-
-### Equipe:
+## Equipe:
 
 | Nome | GitHub Profile |
 | --- | --- |
