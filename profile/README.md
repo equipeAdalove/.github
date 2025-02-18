@@ -17,8 +17,7 @@ Nossa visão vai além de simplesmente fornecer soluções tecnológicas; almeja
 
 | Nome | GitHub Profile |
 | --- | --- |
-|Angelina Borroni | [Angelina's GitHub](https://github.com/borroniff) |
-| Celso Rocha |  [Celso's GitHub](https://github.com/celsick) |
+| Angelina Borroni | [Angelina's GitHub](https://github.com/borroniff) |
 | Maria Fernanda |  [Mafe's GitHub](https://github.com/Madhs31) |
 | Matheus Germano | [Germano's GitHub](https://github.com/m-germano) | 
 | Raphaela Monteiro | [Raphaela's GitHub](https://github.com/raphaelamonteiro) |
