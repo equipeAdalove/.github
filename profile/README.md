@@ -20,6 +20,7 @@ Nossa visão vai além de simplesmente fornecer soluções tecnológicas; almeja
 | Angelina Borroni | [Angelina's GitHub](https://github.com/borroniff) |
 | Maria Fernanda |  [Mafe's GitHub](https://github.com/Madhs31) |
 | Matheus Germano | [Germano's GitHub](https://github.com/m-germano) | 
+| Ramon | [Ramon's GitHub](https://github.com/ramonads42) |
 | Raphaela Monteiro | [Raphaela's GitHub](https://github.com/raphaelamonteiro) |
 | Renan Tomasi |  [Renan's GitHub](https://github.com/renan21-tg) |
 | Vitor Ribeiro | [Vitor's GitHub](https://github.com/ribeirovitor04) | 
