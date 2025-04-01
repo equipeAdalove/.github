@@ -13,14 +13,14 @@ Nossa visão vai além de simplesmente fornecer soluções tecnológicas; almeja
 
 ##
 
-## Equipe:
+## 🫧 Equipe:
 
 | Nome | GitHub Profile |
 | --- | --- |
 | Angelina Borroni | [Angelina's GitHub](https://github.com/borroniff) |
-| Maria Fernanda |  [Mafe's GitHub](https://github.com/Madhs31) |
+| Maria Fernanda Hansen |  [Mafe's GitHub](https://github.com/Madhs31) |
 | Matheus Germano | [Germano's GitHub](https://github.com/m-germano) | 
-| Ramon | [Ramon's GitHub](https://github.com/ramonads42) |
+| Ramon Amorim da Silva| [Ramon's GitHub](https://github.com/ramonads42) |
 | Raphaela Monteiro | [Raphaela's GitHub](https://github.com/raphaelamonteiro) |
 | Renan Tomasi |  [Renan's GitHub](https://github.com/renan21-tg) |
 | Vitor Ribeiro | [Vitor's GitHub](https://github.com/ribeirovitor04) | 
@@ -29,9 +29,5 @@ Nossa visão vai além de simplesmente fornecer soluções tecnológicas; almeja
 
 
 <br>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,py,flask,figma,aws,mysql,java" height="45" />
-</div>
 
 ##
