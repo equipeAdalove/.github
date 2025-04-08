@@ -13,7 +13,7 @@ Nossa visão vai além de simplesmente fornecer soluções tecnológicas; almeja
 
 ##
 
-## 🫧 Equipe:
+## 🫧 AdaTeam:
 
 | Nome | GitHub Profile |
 | --- | --- |
