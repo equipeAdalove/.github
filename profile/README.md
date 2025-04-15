@@ -27,8 +27,9 @@ Nossa visão vai além de simplesmente fornecer soluções tecnológicas; almeja
 
 
 <br>
+<!----
 <div>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,bootstrap,css,docker,figma,flask,git,html,idea,java,javascript,materialui,maven,mysql,nestjs,nodejs,postgresql,python,react,tailwindcss,typescript,vscode,vite&theme=dark&perline=15" alt="AdaSkills" /></a>
-</div>
+</div---!>
 
 ##
