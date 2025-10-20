@@ -23,8 +23,6 @@ Nossa visão vai além de simplesmente fornecer soluções tecnológicas; almeja
 | Ramon Amorim da Silva| [Ramon's GitHub](https://github.com/ramonads42) |
 | Raphaela Monteiro | [Raphaela's GitHub](https://github.com/raphaelamonteiro) |
 | Renan Tomasi |  [Renan's GitHub](https://github.com/renan21-tg) |
-| Vitor Ribeiro | [Vitor's GitHub](https://github.com/ribeirovitor04) | 
-
 
 <br>
 <!----
