@@ -1,3 +1,4 @@
+<!----
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&weight=600&size=25&duration=4990&pause=995&color=8952C3&center=true&vCenter=true&width=435&lines=Seja+bem-vindo(a)!;Somos+a+Equipe+AdaLove!;Conectando+Inova%C3%A7%C3%A3o%2C+Criando+Futuros!" alt="Typing SVG" /></a>
 </div>
@@ -29,5 +30,6 @@ Nossa visão vai além de simplesmente fornecer soluções tecnológicas; almeja
 <div>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,bootstrap,css,docker,figma,flask,git,html,idea,java,javascript,materialui,maven,mysql,nestjs,nodejs,postgresql,python,react,tailwindcss,typescript,vscode,vite&theme=dark&perline=15" alt="AdaSkills" /></a>
 </div---!>
-
+!----->
+# 404
 ##
